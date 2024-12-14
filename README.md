@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  🌱 I’m currently learning new frameorks and tools to build Web development Projects.
+  🌱 I’m currently learning new frameworks and tools to build Web development Projects.
   
   🤔 I’m looking for help with Problem Solving,debugging and logic building.
    
