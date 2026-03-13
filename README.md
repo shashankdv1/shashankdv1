@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-  🌱 I’m currently learning and understanding programming.
+  🌱 My Objective is to learn and understand programming.
    
